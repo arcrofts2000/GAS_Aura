@@ -6,10 +6,10 @@
 
 UAuraAttributeSet::UAuraAttributeSet()
 {
-	InitHealth(100.f);
+	InitHealth(20.f);
 	InitMaxHealth(100.f);
 	
-	InitMana(100.f);
+	InitMana(75.f);
 	InitMaxMana(100.f);
 
 	InitStamina(100.f);
